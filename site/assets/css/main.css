@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,200");
+/* @import url("fontawesome-all.min.css"); */
 
 /*
 	Halcyonic by HTML5 UP
@@ -2142,6 +2143,17 @@ input, select, textarea {
 				font-size: 13pt;
 				line-height: 1.4em;
 			}
+
+				ul.actions {
+					flex-direction: column;
+				}
+
+				ul.actions > li {
+				margin: 0;
+
+				
+			}
+
 
 		/* Multi-use */
 
