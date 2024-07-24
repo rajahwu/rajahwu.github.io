@@ -18,6 +18,12 @@ header h1 {
     font-size: 2em;
 }
 
+.subtitle {
+    margin: 0;
+    /* font-size: 1.5em; */
+    color: blue;
+}
+
 header p {
     margin: 5px 0;
 }

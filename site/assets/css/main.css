@@ -1573,6 +1573,10 @@ input, select, textarea {
 		color: #fff;
 	}
 
+	#banner > .container {
+	 transform: scale(0.95); 
+	}
+
 		#banner .bordered-feature-image {
 			margin-bottom: 0;
 		}
@@ -1856,6 +1860,35 @@ input, select, textarea {
 		#footer .check-list li {
 			border-top: solid 1px #e0e4e6;
 			border-bottom: solid 1px #b5bec3;
+		}
+
+		.icons {
+			display: flex;
+		}
+
+		.icon {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			margin: 0.5em;
+		}
+		
+		.icon-list {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			/* margin-left: 2.5em; */
+		}
+		
+		.icon-image {
+			border-radius: 50%;
+			margin: 0;
+		}
+
+		.icon.label {
+			margin: 0;
+			padding: 0;
 		}
 
 /* Copyright */
