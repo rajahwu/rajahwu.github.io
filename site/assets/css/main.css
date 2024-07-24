@@ -1540,6 +1540,7 @@ input, select, textarea {
 			right: 0;
 			bottom: 35px;
 			font-weight: 200;
+			margin-right: 15vw;
 		}
 
 			#header nav a {
@@ -1579,6 +1580,9 @@ input, select, textarea {
 			margin: 0 0 1em 0;
 		}
 
+		.banner-subtitle{
+			text-align: center;
+		}
 /* Features */
 
 	#features {
@@ -1755,6 +1759,7 @@ input, select, textarea {
 			#header nav a {
 				font-size: 1.1em;
 			}
+
 
 		/* Content */
 
