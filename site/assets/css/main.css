@@ -116,6 +116,10 @@ input, select, textarea {
 		margin-bottom: 0 !important;
 	}
 
+	.not-allowed {
+		cursor: not-allowed;
+	}
+
 /* Container */
 
 	.container {
